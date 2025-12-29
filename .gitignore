@@ -1,0 +1,4 @@
+node_modules/
+frontend/node_modules/
+mon-backend/node_modules/
+.env
