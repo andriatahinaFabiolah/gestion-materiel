@@ -12,6 +12,13 @@ Application web de gestion de matériel informatique avec affectation aux direct
 
 ---
 
+## ✅ Prérequis
+- Node.js v18+
+- MySQL v8+
+- npm v9+
+
+---
+
 ## 📂 Structure
 - `frontend/` : application React
 - `backend/` : API Node / Express
